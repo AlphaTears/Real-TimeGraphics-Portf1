@@ -1,0 +1,3 @@
+D:\BlockTeaching\CIS5013\Code demo\rtGraphics_3D\x64\Debug\rtGraphics_3D.exe
+D:\Real-Time Graphics\MyOwnProject\rtGraphics_3D\x64\Debug\rtGraphics_3D.exe
+D:\Real-Time Graphics\MyOwnProject\rtGraphics_3D\x64\Debug\rtGraphics_3D.pdb
